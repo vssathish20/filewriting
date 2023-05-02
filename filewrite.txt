@@ -1,3 +1,4 @@
 this is a file writing operation
 this is file reading operation.
 file read and write
+file reading is so easy so we are adding
